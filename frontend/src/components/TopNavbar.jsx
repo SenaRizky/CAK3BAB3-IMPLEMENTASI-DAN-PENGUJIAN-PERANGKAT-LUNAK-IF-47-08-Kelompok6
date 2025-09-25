@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import logo from '../assets/logos/logombclab.png';
+import logo from '../assets/logos/logo_kelompok_6.png';
 
 export default function TopNavbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const links = [
     { to: '/', label: 'Home' },
-    { to: '/divisions', label: 'Division' },
     { to: '/developer', label: 'Developers' },
   ];
 
@@ -44,12 +43,7 @@ export default function TopNavbar() {
             ))}
           </ul>
 
-          <NavLink
-            to="/contact"
-            className="hidden md:inline-block bg-red-500 hover:bg-red-600 text-white font-semibold px-4 py-2 rounded transition-colors whitespace-nowrap"
-          >
-            Hubungi Kami
-          </NavLink>
+
 
           {/* Mobile Hamburger Button */}
           <button
