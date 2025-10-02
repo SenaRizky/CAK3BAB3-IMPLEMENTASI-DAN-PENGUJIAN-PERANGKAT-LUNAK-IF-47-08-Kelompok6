@@ -6,7 +6,7 @@ CAK3BAB3 – IMPLEMENTASI DAN PENGUJIAN PERANGKAT LUNAK – IF-47-08 – Kelompo
 - [#1 Tombol Navigation Page](https://github.com/SenaRizky/CAK3BAB3-IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK-IF-47-08-Kelompok6/issues/1)
 - [#2 Inisialisasi project dengan base application](https://github.com/SenaRizky/CAK3BAB3-IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK-IF-47-08-Kelompok6/issues/2)
 - [#3 Home Dashborad](https://github.com/SenaRizky/CAK3BAB3-IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK-IF-47-08-Kelompok6/issues/3)
-- [#4 Tambahkan tombol About Us](https://github.com/SenaRizky/CAK3BAB3-IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK-IF-47-08-Kelompok6/issues/4)
+- [#4 Page Developers](https://github.com/SenaRizky/CAK3BAB3-IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK-IF-47-08-Kelompok6/issues/4)
 
 ## 2. Link Pull Request (Programmer)
 - [PR #5 – first commit](https://github.com/SenaRizky/CAK3BAB3-IMPLEMENTASI-DAN-PENGUJIAN-PERANGKAT-LUNAK-IF-47-08-Kelompok6/pull/5)
